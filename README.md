@@ -13,8 +13,19 @@
 3. Была найдена оптимальная модель - **XGBoost**, которая показала **precision = 0.82** при **recall >= 0.6**.
 
 
-## Пример визуализаций проекта:
-
+## Примеры визуализаций проекта:
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Images/2.jpg" width="750"/><br>
+      <b>Сравнение моделей по ROC AUC</b>
+    </td>
+    <td align="center">
+      <img src="Images/2.jpg" width="750"/><br>
+      <b>Сравнение моделей по Average Precision</b>
+    </td>
+  </tr>
+</table>
 
 ## Использованные инструменты и языки:
 * Python
