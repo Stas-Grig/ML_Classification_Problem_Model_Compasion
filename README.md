@@ -35,7 +35,7 @@
 
 ## Использованные инструменты и языки:
 * Python
-* Numpy
+* NumPy
 * Pandas
 * Phik
 * Matplotlib
